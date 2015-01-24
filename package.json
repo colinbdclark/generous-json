@@ -1,0 +1,25 @@
+{
+    "name": "generousJSON",
+    "main": "generous-json.js",
+    "version": "1.0.0",
+    "description": "A JSON parser that supports comments and unquoted keys.",
+    "author": "Colin Clark",
+    "contributors": [
+        "Dae Park",
+        "Kyle Simpson"
+    ],
+    "homepage": "https://github.com/colinbdclark/generous-json",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/colinbdclark/generous-json.git"
+    },
+    "bugs": "https://github.com/colinbdclark/generous-json/issues",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "keywords": ["JSON"],
+    "readmeFilename": "README.md",
+}

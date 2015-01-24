@@ -1,0 +1,12 @@
+{
+    "name": "generous-json",
+    "version": "1.0.0",
+    "main": "generous-json.js",
+    "ignore": [
+        ".jshintrc",
+        "package.json",
+        "bower.json",
+        "node_modules",
+        "tests"
+    ]
+}
